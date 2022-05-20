@@ -1,7 +1,7 @@
 # Seminarios: Material Design
 
 Você deverá elaborar uma pequena apresentação sobre um dos tópicos voltados para componentes de Material Design.
-Escolha um componente de sua preferência presente neste (link)[https://material.io/components?platform=android].
+Escolha um componente de sua preferência presente neste [link](https://material.io/components?platform=android).
 
 Sua apresentação deverá ter duração entre 7 e 10 minutos, a ser feita dentro da sala de aula.
 Ela deverá conter obrigatóriamente:
