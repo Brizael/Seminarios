@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/feliz"
+        android:title="Feliz"
+        android:icon="@drawable/ic_feliz"
+        />
+
+    <item
+        android:id="@+id/triste"
+        android:title="Triste"
+        android:icon="@drawable/ic_triste"
+        />
+
+    <item
+        android:id="@+id/normal"
+        android:title="Normal"
+        android:icon="@drawable/ic_normal"
+        />
+
+</menu>
